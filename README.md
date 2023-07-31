@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Cyber Security and Android Development**
 
-- 💬 Ask me about **HTML,Css,JavaScript,Java,Python**
+- 💬 Ask me about **HTML,CSS,JavaScript,Java,Python**
 
 - 📫 How to reach me **samar034836@gmal.com**
 
