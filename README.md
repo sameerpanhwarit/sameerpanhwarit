@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Sameer+Panhwar+%F0%9F%91%8B;Python+Developer+from+Pakistan;AI%2FML+%7C+Backend+Wizard;Welcome+to+my+space!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Sameer+Panhwar+%F0%9F%91%8B;Python+Backend+Developer+from+Pakistan;AI%2FML+%7C+Backend+Wizard;Welcome+to+my+space!"/>
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" />
+</p>
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350"/>
 </p>
