@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Sameer+Panhwar+%F0%9F%91%8B;Python+%7C+AI%2FML+%7C+Backend+Wizard+from+Pakistan;Welcome+to+my+space!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Sameer+Panhwar+%F0%9F%91%8B;Python+Developer+%7C+AI%2FML+%7C+Backend+Wizard+from+Pakistan;Welcome+to+my+space!"/>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ Hi! I'm Sameer, a passionate developer who loves building smart, scalable, and i
 
 ## 🚀 Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,fastapi,pytorch,tensorflow,git,linux,mysql,postgresql,html,css,js,bootstrap,figma" />
+  <img src="https://skillicons.dev/icons?i=python,flask,django,fastapi,pytorch,tensorflow,docker,git,linux,mysql,postgresql,html,css,js,bootstrap,figma" />
 </p>
 
 <p align="center">
