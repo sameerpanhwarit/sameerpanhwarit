@@ -1,34 +1,82 @@
-<h1 align="center">Hi 👋, I'm Sameer</h1>
-<h3 align="center">A passionate Python Programmer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/01/coding_gif.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sameerpanhwarit&label=Profile%20views&color=0e75b6&style=flat" alt="sameerpanhwarit" /> </p>
-
-- 🔭 I’m currently working on **Python**
-
-- 🌱 I’m currently learning **Cyber Security and Android Development**
-
-- 💬 Ask me about **HTML,CSS,JavaScript,Java,Python**
-
-- 📫 How to reach me **samar034836@gmal.com**
-
-- ⚡ Fun fact **I'm Boring Person Because I'm Programmer**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/sameerpanhwar23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sameerpanhwar23" height="30" width="40" /></a>
-<a href="https://instagram.com/sameerpanhwar23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sameerpanhwar23" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sameer034836" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sameer034836" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Sameer+Panhwar+%F0%9F%91%8B;Python+%7C+AI%2FML+%7C+Backend+Wizard+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Welcome+to+my+digital+space!"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350"/>
+</p>
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sameerpanhwarit&theme=dark&background=000000)](https://git.io/streak-stats)
-</br>
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameerpanhwarit&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+## 🧑‍💻 Who Am I?
+
+> "Turning ☕ into code, and ideas into reality!"
+
+Hi! I'm Sameer, a passionate developer who loves building smart, scalable, and impactful solutions. Whether it's crafting robust APIs, exploring the world of AI/ML, or automating the boring stuff, I bring creativity and precision to every project. My mission? To make technology accessible, fun, and powerful for everyone.
+
+---
+
+## 🏆 Trophy Wall
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sameerpanhwarit&theme=onestar&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🚀 Skills & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,django,fastapi,pytorch,tensorflow,git,linux,mysql,postgresql,html,css,js,bootstrap,figma" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerpanhwarit&layout=compact&theme=vision-friendly-dark" />
+</p>
+
+---
+
+## 📈 GitHub Stats & Streaks
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=sameerpanhwarit&theme=dark&background=000000" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sameerpanhwarit&show_icons=true&theme=radical" />
+</p>
+
+---
+
+## 🤩 Fun Facts
+- 🧠 I love solving puzzles and brain teasers.
+- 🌍 I speak code in multiple languages (and a bit of Urdu!).
+- 🏅 Hackathon enthusiast & open-source contributor.
+- 🥇 Always up for a challenge—let's build something awesome!
+
+---
+
+## 💬 Philosophy
+> "Code is like humor. When you have to explain it, it’s bad." — Cory House
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="mailto:panhwar.sameer23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>
+  <a href="https://fb.com/sameerpanhwar23" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35"/></a>
+  <a href="https://instagram.com/sameerpanhwar23" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/></a>
+  <a href="https://www.hackerrank.com/sameer034836" target="blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="35"/></a>
+</p>
+
+---
+
+## ☕ Support Me
+<p align="center">
+  <a href="https://www.buymeacoffee.com/sameerpanhwar" target="_blank"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="35"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sameerpanhwarit&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Happy+Coding!+%F0%9F%9A%80"/>
+</p>
