@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Sameer+Panhwar+%F0%9F%91%8B;Python+%7C+AI%2FML+%7C+Backend+Wizard+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Welcome+to+my+digital+space!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Sameer+Panhwar+%F0%9F%91%8B;Python+%7C+AI%2FML+%7C+Backend+Wizard+from+Pak+%F0%9F%87%B5%F0%9F%87%B0;Welcome+to+my+digital+space!"/>
 </p>
 
 <p align="center">
@@ -65,12 +65,6 @@ Hi! I'm Sameer, a passionate developer who loves building smart, scalable, and i
 </p>
 
 ---
-
-## ☕ Support Me
-<p align="center">
-  <a href="https://www.buymeacoffee.com/sameerpanhwar" target="_blank"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="35"/></a>
-</p>
-
 ---
 
 <p align="center">
